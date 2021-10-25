@@ -2,7 +2,7 @@
 Deep Learning homework
 
 
-#Step by step procedure to recreate answer.txt
+# Step by step procedure to recreate answer.txt
 
 0.) Requirements, the usual: https://pytorch.org/get-started/locally/
 
